@@ -9,6 +9,6 @@ libcamera-vid -t0 --width 1920 --height 1080 --framerate 10 --nopreview --codec 
 ```
 
 ```
-tcp/h264://192.168.1.234:8494
+tcp/h264://192.168.100.212:8494
 ```
 
